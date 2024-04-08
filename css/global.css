@@ -123,6 +123,7 @@ section {
 .section-title {
   margin-top: 0;
   font-size: 3.8rem;
+  border: 3px solid black; padding: 10px;
 }
 
 .section-header {
@@ -762,6 +763,7 @@ footer .socials a:hover {
       "article sidebar"
   }
 
+  
   .article {
     grid-area: article;
   }
